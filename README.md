@@ -10,6 +10,7 @@ This is an open-source password generator developed using HTML, CSS, and JavaScr
 ## To-dos:
 - Improve mobile user interface for better usability.
 - Add a Dark Mode option for better view at night.
+- Optimise Web UI.
 
 ## How to Contribute:
 Contributions to this project are welcomed and appreciated. To contribute, simply follow these steps:
