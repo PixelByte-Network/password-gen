@@ -16,3 +16,7 @@ Contributions to this project are welcomed and appreciated. To contribute, simpl
 1. Fork the repository.
 2. Make your changes.
 3. Submit a pull request.
+
+
+Test the code here!
+https://passwordgen.pixelbyte.dev
