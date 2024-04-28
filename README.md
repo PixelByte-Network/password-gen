@@ -20,4 +20,5 @@ Contributions to this project are welcomed and appreciated. To contribute, simpl
 
 
 Test the code here!
-https://passwordgen.pixelbyte.dev
+[https://passwordgen.pixelbyte.dev
+](https://password-generator-9vv.pages.dev/)
